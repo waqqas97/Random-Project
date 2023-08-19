@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    }
+
+
+    .parallexone {
+    width: 100%;
+    height: 600px;
+    opacity: 0.90;
+    background-image:
+    url(https://assets.architecturaldigest.in/photos/60083d1894ca758bb0ad12ad/1:1/w_1504,h_1504,c_limit/Hyderabad-homes-interior-design-photos-1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    }
+
+    .parallexone h1 {
+    background-color: rgba(255, 255, 255, 0.61);
+    position: relative;
+    height: 30px;
+    top: 180px;
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+    color: rgb(15, 15, 15,0.90);
+
+    }
+
+    .parallexone h2 {
+    background-color: rgba(255, 255, 255, 0.61);
+    position: relative;
+    width: 250px;
+    height: 109px;
+    text-align: center;
+    font-size: 30px;
+    top: 230px;
+    left: 528px;
+    padding: 25px;
+    color: rgb(15, 15, 15,0.85);
+
+    }
+
+
+    .parallextwo {
+    width: 100%;
+    height: 600px;
+    opacity: 0.90;
+    background-image:
+    url(https://media.architecturaldigest.com/photos/55e773e6302ba71f3016ecea/master/w_900,h_600,c_limit/dam-images-decor-2015-06-designers-kitchens-interior-designers-kitchen-style-04.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    }
+
+    .parallextwo h2 {
+    background-color: rgba(255, 255, 255, 0.61);
+    position: relative;
+    width: 600px;
+    left: 350px;
+    top: 250px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(15, 15, 15,0.80);
+    }
+
+
+    .parallexthree {
+    width: 100%;
+    height: 600px;
+    opacity: 0.90;
+    background-image:
+    url(https://static.asianpaints.com/content/dam/asianpaintsbeautifulhomes/home-decor-advice/guides-and-how-tos/how-to-design-a-one-of-a-kind-dining-room/Title-dining-room-lighting.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    }
+
+    .parallexthree h2 {
+    background-color: rgba(255, 255, 255, 0.61);
+    position: relative;
+    width: 600px;
+    left: 350px;
+    top: 200px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(15, 15, 15,0.80);
+    }
+
+    .para {
+    height: 50px;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(202, 198, 198);
+    font-size: 20px;
+    }

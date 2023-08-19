@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+.hero-section {
+    background-image: url(https://xbox-store-checker.com/assets/upload/game/2019/02/optimize/9wzdncrfj3tj-background.jpg);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 50px 0;
+    background-size: cover;
+    background-position: center;
+  }
+button {
+    background-color: rgb(229, 9, 20);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    max-width: 300px;
+    margin: auto;
+  }
+
+.movie-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+
+.movie-poster {
+  width: 400px;
+  height: 450px;
+  margin: 0 auto;
+
+}
+
+.movie-poster img {
+height: 100%;
+width: 100%;
+}
+
+.movie-trailer {
+  width: 560px;
+  height: 315px;
+  margin: auto 15px;
+}
+
+.movie-trailer iframe {
+height: 100%;
+width: 100%;
+}
+
+
+#movie-text {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+
+.movie-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
+.movie-description {
+  margin-bottom: 8px;
+}
+
+
+.movie-release-date {
+  font-style: italic;
+}
+
+.pricing-section {
+  padding: 50px 0;
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 60px;
+  width: 100px;
+}
+th {
+  background-color: #333;
+  color: white;
+}
+
+.contact-section {
+  background-color: #222;
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+form {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+label,
+input,
+textarea,
+button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+label {
+  color: #ccc;
+}
+input,
+textarea {
+  background-color: #333;
+  color: #ccc;
+  border: none;
+  padding: 10px;
+}
+
+.footer{
+  padding: 25px 20px;
+  background-color: #333;
+  color: white;
+  min-height: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li{
+  display: inline-block;
+}
+
+a{
+  text-decoration: none;
+  padding: 0 10px;
+  color: grey;
+}
+
+a:hover{
+  color: white;
+}
